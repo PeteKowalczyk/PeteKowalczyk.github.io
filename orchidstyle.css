@@ -3,6 +3,52 @@ body {
 }
 
 h1 {
+ 	font-family: "Helvetica Neue", Helvetica, sans-serif, "Helvetica Bold", Social /*!System*/;
+	font-style: normal;
+	font-weight: 700;
+	padding: 0;
+	margin: 0;
   color: #02ff13;
+ 	font-size: 4.2rem;
+	line-height: 1.1;
+	text-rendering: optimizeLegibility;
  
+}
+
+b, strong {
+	font-weight: bold;
+}
+
+
+ul, ol {
+	margin: 0;
+	padding: 0 0 0 1em;
+}
+
+
+h2 {
+	font-family: "Helvetica Neue", Helvetica, sans-serif, "Helvetica Bold", Social /*!System*/;
+	font-style: normal;
+	font-weight: 700;
+	padding: 0;
+	margin: 0;
+	color: #02ff13;
+	font-size: 4.2rem;
+	line-height: 1.1;
+	text-rendering: optimizeLegibility;
+}
+
+small {
+	display: inline-block;
+	font-size: 1.6rem;
+	line-height: 1.4;
+	font-family: 'Benton Sans', Social /*!Persona*/;
+	font-style: normal;
+	font-weight: 400;
+	color: rgba(95, 78, 78, 0.85);
+}
+
+small a {
+	color: rgba(95, 78, 78, 0.85);
+	border-bottom-width: 0.1em;
 }
