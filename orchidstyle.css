@@ -27,7 +27,7 @@ ul, ol {
 
 
 h2 {
-	font-family: "Helvetica Neue", Helvetica, sans-serif, "Helvetica Bold", Social /*!System*/;
+	font-family: Nitti Grotesk Regular;
 	font-style: normal;
 	font-weight: 700;
 	padding: 0;
@@ -42,7 +42,7 @@ small {
 	display: inline-block;
 	font-size: 1.1rem;
 	line-height: 1.4;
-	font-family: TeX Gyre Heros Condensed Regular;
+	font-family: Nitti Grotesk Regular;
 	font-style: normal;
 	font-weight: 400;
 	color: rgba(95, 78, 78, 0.85);
