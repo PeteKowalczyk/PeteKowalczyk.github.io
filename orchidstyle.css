@@ -52,3 +52,7 @@ small a {
 	color: rgba(95, 78, 78, 0.85);
 	border-bottom-width: 0.1em;
 }
+
+img {
+  width: 100%;
+}
