@@ -36,6 +36,21 @@ h1 {
  
 }
 
+/* unvisited link */
+a:link {
+  color: #ffffff;
+}
+
+/* visited link */
+a:visited {
+  color: #ffffff;
+}
+
+/* mouse over link */
+a:hover {
+  color: #0CFF00;
+}
+
 b, strong {
 	font-weight: bold;
 }
@@ -69,15 +84,7 @@ small {
 	color: #ffffff;
 }
 
-small a {
-	display: inline-block;
-	font-size: 1.1rem;
-	line-height: 1.4;
-	font-family: "Helvetica Neue", Helvetica, sans-serif, "Helvetica Bold", Social /*!System*/;
-	font-style: normal;
-	font-weight: 400;
-	color: #ffffff;
-}
+
 
 img {
   width: 100%;
