@@ -2,6 +2,14 @@ body {
  background-color: black;
 }
 
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
 h1 {
  	font-family: "Helvetica Neue", Helvetica, sans-serif, "Helvetica Bold", Social /*!System*/;
 	font-style: normal;
