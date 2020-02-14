@@ -57,7 +57,7 @@ small {
 	font-family: "Helvetica Neue", Helvetica, sans-serif, "Helvetica Bold", Social /*!System*/;
 	font-style: normal;
 	font-weight: 400;
-	color: rgba(95, 78, 78, 0.85);
+	color: rgba(255, 255, 255, 0);
 }
 
 small a {
@@ -67,7 +67,7 @@ small a {
 	font-family: "Helvetica Neue", Helvetica, sans-serif, "Helvetica Bold", Social /*!System*/;
 	font-style: normal;
 	font-weight: 400;
-	color: rgba(95, 78, 78, 0.85);
+	color: rgba(255, 255, 255, 0);
 }
 
 img {
