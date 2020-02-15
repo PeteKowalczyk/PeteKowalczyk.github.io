@@ -4,7 +4,7 @@ html{
 }
 
 body {
- background-color: black;
+ background-color: #ffffff;
 	     padding:0;
      width:100%;
 }
@@ -27,7 +27,7 @@ h1 {
 	font-weight: 700;
 	padding: 0;
 	margin: 0;
-	color: #ffffff;
+	color: #000000;
  	font-size: 3.3rem;
 	line-height: 1.1;
 	text-rendering: optimizeLegibility;
@@ -36,13 +36,13 @@ h1 {
 
 /* unvisited link */
 a:link {
-  color: #ffffff;
+  color: #000000;
 	text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #ffffff;
+  color: #000000;
 	text-decoration: none;
 }
 
@@ -82,7 +82,7 @@ small {
 	font-family: "Helvetica Neue", Helvetica, sans-serif, "Helvetica Bold", Social /*!System*/;
 	font-style: normal;
 	font-weight: 400;
-	color: #ffffff;
+	color: #000000;
 }
 
 
